@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a university student and aspiring Junior Java Developer, passionate about learning and building meaningful projects.
+I'm a university student and aspiring Junior Java Developer, passionate about learning and building meaningful projects. Open to part-time roles or internships
 
 
 💻 Skills & Interests:
