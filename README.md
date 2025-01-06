@@ -13,8 +13,6 @@ Writing clean, maintainable code and exploring new technologies
 
 🚀 Current Focus:
 
-Developing mockups for web applications
-
 Enhancing my skills in backend development and software architecture
 
 
