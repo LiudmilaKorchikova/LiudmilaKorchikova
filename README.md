@@ -27,7 +27,7 @@ Contribute to open-source projects and learn from the community
 
 Feel free to reach out or connect with me! 😊
 
-Reach me at: liudmila.korchikova@outlook.com
+Email: liudmila.korchikova@outlook.com
 
 <!--
 **LiudmilaKorchikova/LiudmilaKorchikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
